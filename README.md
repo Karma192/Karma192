@@ -8,3 +8,5 @@ Currently going for a Master Degree of Game Design and Creative Coding at [E-art
 - ⚙️ I use daily: `.cs`, `.cpp`, `.c`, `.unity`, `.unreal`
 - 💅 You can visit my portfolio for projects presented with videos and images
 - 💬 `ping` me about **Game Development** or **Game Design**
+
+*Thanks to [Caneco](https://github.com/caneco) for the README inspiration*
